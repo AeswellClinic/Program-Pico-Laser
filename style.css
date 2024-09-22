@@ -9,7 +9,6 @@
     overflow: hidden;
     padding-bottom: 90px;
 }
-
 .slider::before {
     content: '';
     position: absolute;
